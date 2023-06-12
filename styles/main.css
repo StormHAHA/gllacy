@@ -587,6 +587,7 @@ body {
     display: flex;
     list-style: none;
     justify-content: space-between;
+    gap: 8px;
 }
 .social {
     width: 186px;
@@ -595,7 +596,7 @@ body {
 .links img {
     border: 4px solid #c2cec7;
     border-radius: 20px;
-    margin-left: 5px;
+
 }
 
 
